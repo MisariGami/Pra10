@@ -1,5 +1,5 @@
 # 20CE029 Misari Gami
-# GitHub repository link : https://github.com/MisariGami/Pra9/blob/main/20CE029_Pra10.py
+# GitHub repository link : https://github.com/MisariGami/Pra10/blob/main/20CE029_Pra10.py
 
 # Generate PDF file of your 3rd Semester Mark-sheet
 
